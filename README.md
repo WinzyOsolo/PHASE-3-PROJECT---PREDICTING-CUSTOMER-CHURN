@@ -11,3 +11,10 @@ Through this project, I am building a prediction model that identifies patterns 
 * Modelling
 * Model Evaluation
 * Recommendations and Conclusions
+
+
+## Business Understanding
+In today's dynamic telecommunication landscape, Syriatel Mobile Telecom recognizes the critical importance of enhancing customer satisfaction and preserving its extensive clientele of 8 million subscribers. Amidst evolving market dynamics, including heightened competition, technological advancements, and globalization, the company remains steadfast in its commitment to maintaining market leadership by prioritizing customer satisfaction and social responsibility, as underscored in its LinkedIn profile.
+
+## Data Source
+Kaggle 
